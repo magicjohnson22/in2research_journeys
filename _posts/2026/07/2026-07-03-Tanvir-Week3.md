@@ -32,3 +32,5 @@ Hopefully next week I can start planning some of the tutorial documentation. In 
 - healpy, for visualising signals in the HEALPix sampling scheme specifically.
 
 Once I'm comfortable with those, I'd like to sketch out a rough structure for a tutorial.
+
+<img height="25px" src="/in2research_journeys/images/2026/07/Tanvir_SHT.jpg" alt="Spherical harmonic transforms" />
