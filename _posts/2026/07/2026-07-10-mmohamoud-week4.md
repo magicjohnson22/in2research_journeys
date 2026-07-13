@@ -13,7 +13,7 @@ layout: post
 
 * I was also able to update my mask-matching script for OpenEDS and fully sort the dataset, with the images in `.png` format and the masks in `.npy` format, into separate folders. I then produced a `.npy` to `.png` conversion script to convert all 27,431 `.npy` masks into `.png`.
 
-* After having issues with storage over the previous weeks, I was able to free up 100 GB of space, which allowed me to download the third dataset, RIT-Eyes, and begin sorting the data.
+* After having issues with storage over the previous weeks, I was able to free up 100 GB of space, which allowed me to download the third dataset, RIT-Eyes, and begin working on the data.
 
 * This week, I also continued working on my preprocessing package and successfully trialled producing augmentations from all 3 datasets. I mainly worked on fixing and producing separate scripts for sorting the OpenEDS and RIT-Eyes datasets. Since all 3 datasets have different folder structures, I decided to produce separate sorting and data-wrangling scripts for each one.
 
